@@ -1,0 +1,19 @@
+p {
+	background-color: #FFCCCB;
+	font-family: Verdana, DejaVu, Serif;
+}
+
+#title {
+	color: blue;
+	font-size: 36px;
+}
+
+#font {
+	font-size: 24px;
+}
+
+#green {
+	background-color: #66FF99;
+	font-size: 24px;
+	font-weight: bold;
+}
